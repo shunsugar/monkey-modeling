@@ -1,6 +1,8 @@
 # monkey-modeling <img src="https://img.shields.io/badge/-Mathworks-0076A8.svg?logo=mathworks&style=plastic">
 In this repository, modeling monkeys in MATLAB. You can see the movement of the monkey's joints.
 
+![monkey3_edit](https://github.com/shunsugar/monkey-modeling/assets/120554165/69e426f8-b1ca-48d1-bef6-b59af9db39cd)
+
 ## How to use ❔
 ### 1. Clone this repository. 🐒
 ```
@@ -23,5 +25,3 @@ When you run the program, you will see two windows as shown below.
 > Notice the second window.
 > Dragging the slider on the left moves the monkey's joints.
 > Clicking the buttons on the right causes the monkeys to assume their respective poses or movements.
-> 
-> ![monkey3_edit](https://github.com/shunsugar/monkey-modeling/assets/120554165/69e426f8-b1ca-48d1-bef6-b59af9db39cd)
