@@ -23,3 +23,5 @@ When you run the program, you will see two windows as shown below.
 > Notice the second window.
 > Dragging the slider on the left moves the monkey's joints.
 > Clicking the buttons on the right causes the monkeys to assume their respective poses or movements.
+> 
+> ![monkey3_edit](https://github.com/shunsugar/monkey-modeling/assets/120554165/69e426f8-b1ca-48d1-bef6-b59af9db39cd)
